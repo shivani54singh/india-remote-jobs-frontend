@@ -346,7 +346,7 @@ export default function App() {
 
               {job.url && (
                 
-                  href={job.url}
+              href={job.url}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block mt-4 text-sm font-medium text-[#E8A33D] hover:underline"
