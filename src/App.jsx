@@ -345,7 +345,7 @@ export default function App() {
               </ul>
 
               {job.url && (
-                
+                <a
               href={job.url}
                   target="_blank"
                   rel="noopener noreferrer"
